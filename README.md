@@ -1,0 +1,2 @@
+# stopwatch
+A simple and interactive Stopwatch Web Application built using HTML, CSS, and JavaScript. It allows users to start, pause, reset, and record lap times with accurate time tracking. The clean UI and smooth functionality make it easy to measure time intervals effectively.
